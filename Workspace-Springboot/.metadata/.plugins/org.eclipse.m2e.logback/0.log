@@ -1,0 +1,695 @@
+2025-08-04 01:03:25,074 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-08-04 01:03:50,480 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:ecommerce:0.0.1-SNAPSHOT @ D:\ecommerce\pom.xml.
+2025-08-04 01:03:51,966 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:03:51,989 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:03:52,033 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:03:52,962 [Worker-18: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:ecommerce:0.0.1-SNAPSHOT @ D:\ecommerce\pom.xml.
+2025-08-04 01:17:16,219 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:ecommerce:0.0.1-SNAPSHOT @ D:\ecommerce\pom.xml.
+2025-08-04 01:17:16,887 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:17:16,904 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:17:16,909 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:17:17,969 [Worker-45: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:ecommerce:0.0.1-SNAPSHOT @ D:\ecommerce\pom.xml.
+2025-08-04 01:20:08,705 [Worker-44: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:ecommerce:0.0.1-SNAPSHOT @ D:\ecommerce\pom.xml.
+2025-08-04 01:20:09,365 [Worker-44: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce/src/main/java
+2025-08-04 01:20:09,369 [Worker-44: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce/src/main/resources
+2025-08-04 01:20:09,374 [Worker-44: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce/src/main/resources
+2025-08-04 01:20:09,383 [Worker-44: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce/src/test/java
+2025-08-04 01:20:09,385 [Worker-44: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce/src/test/resources
+2025-08-04 01:20:10,791 [Worker-44: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2025-08-04 01:20:13,555 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:20:13,708 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:20:13,719 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:25:38,399 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:25:38,460 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:25:38,481 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:27:02,287 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:27:02,294 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:27:02,300 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:27:25,942 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:27:25,949 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:27:25,953 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:28:57,137 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:28:57,145 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:28:57,150 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:36:52,446 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:36:52,567 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:36:52,591 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:37:24,730 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:37:24,738 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:37:24,741 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:38:05,604 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:38:05,614 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:38:05,617 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:41:24,486 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:41:24,497 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:41:24,501 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:41:36,507 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:41:36,516 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:41:36,518 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:42:04,665 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:42:04,675 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:42:04,680 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:42:16,824 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:42:16,831 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:42:16,834 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:42:37,402 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:42:37,413 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:42:37,417 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:45:01,368 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:45:01,377 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:45:01,380 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:45:58,823 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:45:58,832 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:45:58,836 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:46:41,519 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:46:41,526 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:46:41,530 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:47:07,398 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:47:07,433 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:47:07,442 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:47:24,355 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:47:24,364 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:47:24,366 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:47:45,397 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:47:45,402 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:47:45,405 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:47:54,708 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:47:54,715 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:47:54,718 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:48:16,057 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:48:16,064 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:48:16,069 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:48:23,527 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:48:23,533 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:48:23,536 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:48:46,917 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:48:46,926 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:48:46,929 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:48:56,961 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:48:56,966 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:48:56,968 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:50:28,328 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:50:28,334 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:50:28,338 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:50:44,220 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:50:44,231 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:50:44,235 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:52:42,152 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:52:42,153 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:52:42,158 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:53:09,559 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:53:09,560 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:53:09,563 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:53:47,031 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:53:47,032 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:53:47,035 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:53:53,763 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:53:53,764 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:53:53,769 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:54:16,932 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:54:16,933 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:54:16,936 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:54:25,978 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:54:25,981 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:54:25,987 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:55:41,618 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:55:41,641 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-08-04 01:55:41,650 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:56:00,723 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:56:00,730 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-08-04 01:56:00,733 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:56:21,919 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:56:21,927 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-08-04 01:56:21,930 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:56:34,108 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:56:34,113 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-08-04 01:56:34,115 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:57:09,309 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:57:09,310 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:57:09,313 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:57:12,421 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:57:12,423 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:57:12,430 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:57:39,050 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:57:39,051 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:57:39,054 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:57:45,724 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:57:45,726 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:57:45,733 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:58:06,980 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:58:06,981 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:58:06,985 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:58:14,298 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 01:58:14,299 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:58:14,303 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:58:48,162 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:58:48,175 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-08-04 01:58:48,179 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 01:59:00,041 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 01:59:00,048 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-08-04 01:59:00,051 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:00:18,543 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:00:18,544 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:00:18,547 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:00:26,090 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:00:26,092 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:00:26,097 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:00:48,924 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:00:48,925 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:00:48,928 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:00:56,270 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:00:56,272 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:00:56,278 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:01:11,181 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:01:11,183 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:01:11,186 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:01:50,022 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:01:50,023 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:01:50,026 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:01:58,260 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:01:58,263 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:01:58,269 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:02:39,427 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:02:39,428 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:02:39,431 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:02:57,522 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:02:57,525 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:02:57,529 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:03:05,328 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:03:05,330 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:03:05,336 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:03:47,078 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:03:47,097 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2025-08-04 02:03:47,104 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:03:59,255 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:03:59,261 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2025-08-04 02:03:59,266 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:04:39,629 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:04:39,633 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:04:39,637 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:04:48,446 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:04:48,449 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:04:48,455 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:05:11,611 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:05:11,613 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:05:11,616 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:05:19,858 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:05:19,861 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:05:19,866 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:05:42,946 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:05:42,948 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:05:42,950 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:06:14,604 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:06:14,606 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:06:14,610 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:08:25,675 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:08:25,681 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2025-08-04 02:08:25,687 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:10:08,435 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:10:08,441 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2025-08-04 02:10:08,449 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:15:32,377 [Worker-89: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:ecommerce:0.0.1-SNAPSHOT @ D:\ecommerce\pom.xml.
+2025-08-04 02:15:33,302 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:15:33,305 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:15:33,313 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:15:34,543 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:15:34,564 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2025-08-04 02:15:34,595 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:16:29,168 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:16:29,181 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:16:29,184 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 02:17:45,861 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 02:17:45,868 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 02:17:45,869 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 12:06:35,708 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-04 12:06:52,837 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 12:06:52,862 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2025-08-04 12:06:52,892 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce\src\test\resources
+2025-08-04 14:57:28,753 [Worker-60: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-04 14:57:32,210 [Worker-60: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:ecommerce-app-rest-api:0.0.1-SNAPSHOT @ D:\ecommerce-app-rest-api\pom.xml.
+2025-08-04 14:57:36,877 [Worker-60: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce-app-rest-api/src/main/java
+2025-08-04 14:57:36,880 [Worker-60: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce-app-rest-api/src/main/resources
+2025-08-04 14:57:36,897 [Worker-60: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce-app-rest-api/src/main/resources
+2025-08-04 14:57:36,914 [Worker-60: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce-app-rest-api/src/test/java
+2025-08-04 14:57:36,916 [Worker-60: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce-app-rest-api/src/test/resources
+2025-08-04 14:57:38,031 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 14:57:38,099 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 14:57:38,108 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce-app-rest-api\src\test\resources
+2025-08-04 14:57:41,873 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 14:57:41,876 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 14:57:41,882 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce-app-rest-api\src\test\resources
+2025-08-04 14:57:43,424 [Worker-60: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 7.00 sec, update config takes 6.00 sec 
+2025-08-04 14:57:45,472 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 14:57:45,478 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 14:57:45,482 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce-app-rest-api\src\test\resources
+2025-08-04 15:04:09,092 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 15:04:09,119 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 15:04:09,123 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce-app-rest-api\src\test\resources
+2025-08-04 15:04:49,666 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 15:04:49,701 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 15:04:49,706 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce-app-rest-api\src\test\resources
+2025-08-04 15:05:43,849 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 15:05:43,856 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 15:05:43,860 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce-app-rest-api\src\test\resources
+2025-08-04 16:02:34,312 [Worker-77: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-04 16:02:35,176 [Worker-77: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:movieticketbooking:0.0.1-SNAPSHOT @ D:\movieticketbooking\pom.xml.
+2025-08-04 16:02:36,712 [Worker-77: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movieticketbooking/src/main/java
+2025-08-04 16:02:36,713 [Worker-77: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/main/resources
+2025-08-04 16:02:36,725 [Worker-77: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/main/resources
+2025-08-04 16:02:36,734 [Worker-77: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movieticketbooking/src/test/java
+2025-08-04 16:02:36,736 [Worker-77: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/test/resources
+2025-08-04 16:02:37,532 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:02:37,580 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:02:37,586 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:02:37,746 [Worker-77: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2025-08-04 16:05:13,945 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:05:13,982 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:05:13,991 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce-app-rest-api\src\test\resources
+2025-08-04 16:05:25,569 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:05:25,585 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:05:25,593 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\ecommerce-app-rest-api\src\test\resources
+2025-08-04 16:10:11,532 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:10:11,543 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:10:11,548 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:12:56,191 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:12:56,205 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:12:56,210 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:13:28,261 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:13:28,295 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:13:28,303 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:17:05,358 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:17:05,369 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:17:05,376 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:17:16,239 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:17:16,247 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:17:16,266 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:17:34,935 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:17:34,942 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:17:34,945 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:22:22,020 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:22:22,029 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:22:22,033 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:22:34,555 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:22:34,563 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:22:34,593 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:22:59,198 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:22:59,229 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:22:59,241 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:23:15,529 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:23:15,534 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:23:15,538 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:27:34,398 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:27:34,407 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:27:34,410 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:28:22,238 [Worker-93: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-04 16:28:22,677 [Worker-93: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:movieticketbooking:0.0.1-SNAPSHOT @ D:\movieticketbooking\pom.xml.
+2025-08-04 16:28:23,352 [Worker-93: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movieticketbooking/src/main/java
+2025-08-04 16:28:23,353 [Worker-93: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/main/resources
+2025-08-04 16:28:23,353 [Worker-93: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/main/resources
+2025-08-04 16:28:23,353 [Worker-93: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movieticketbooking/src/test/java
+2025-08-04 16:28:23,354 [Worker-93: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/test/resources
+2025-08-04 16:28:23,627 [Worker-93: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-08-04 16:28:23,945 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:28:23,961 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:28:23,965 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:30:51,464 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:30:51,473 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:30:51,475 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:36:58,106 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:36:58,142 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:36:58,151 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:37:15,414 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:37:15,424 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:37:15,427 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:38:19,819 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:38:19,828 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:38:19,832 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:38:53,601 [Worker-98: Launching MovieTicketBookingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:38:53,614 [Worker-98: Launching MovieTicketBookingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:38:53,617 [Worker-98: Launching MovieTicketBookingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:42:33,268 [Worker-100: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-04 16:42:33,685 [Worker-100: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:movieticketbooking:0.0.1-SNAPSHOT @ D:\movieticketbooking\pom.xml.
+2025-08-04 16:42:34,341 [Worker-100: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movieticketbooking/src/main/java
+2025-08-04 16:42:34,343 [Worker-100: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/main/resources
+2025-08-04 16:42:34,343 [Worker-100: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/main/resources
+2025-08-04 16:42:34,343 [Worker-100: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movieticketbooking/src/test/java
+2025-08-04 16:42:34,344 [Worker-100: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/test/resources
+2025-08-04 16:42:34,577 [Worker-100: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-08-04 16:42:34,868 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:42:34,888 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:42:34,893 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:42:50,043 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [639])
+2025-08-04 16:42:50,045 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013
+2025-08-04 16:42:50,046 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\aopalliance-1.0.jar
+2025-08-04 16:42:50,046 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\guice-5.1.0.jar
+2025-08-04 16:42:50,046 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpclient-4.5.14.jar
+2025-08-04 16:42:50,048 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpcore-4.4.16.jar
+2025-08-04 16:42:50,048 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jansi-2.4.1.jar
+2025-08-04 16:42:50,048 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jcl-over-slf4j-1.7.36.jar
+2025-08-04 16:42:50,049 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-artifact-3.9.9.jar
+2025-08-04 16:42:50,049 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-builder-support-3.9.9.jar
+2025-08-04 16:42:50,050 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-compat-3.9.9.jar
+2025-08-04 16:42:50,050 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-core-3.9.9.jar
+2025-08-04 16:42:50,050 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-embedder-3.9.9.jar
+2025-08-04 16:42:50,050 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-3.9.9.jar
+2025-08-04 16:42:50,051 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-builder-3.9.9.jar
+2025-08-04 16:42:50,051 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-plugin-api-3.9.9.jar
+2025-08-04 16:42:50,051 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-repository-metadata-3.9.9.jar
+2025-08-04 16:42:50,051 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-api-1.9.22.jar
+2025-08-04 16:42:50,052 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-08-04 16:42:50,052 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-impl-1.9.22.jar
+2025-08-04 16:42:50,052 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-named-locks-1.9.22.jar
+2025-08-04 16:42:50,052 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-provider-3.9.9.jar
+2025-08-04 16:42:50,053 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-spi-1.9.22.jar
+2025-08-04 16:42:50,053 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-file-1.9.22.jar
+2025-08-04 16:42:50,054 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-http-1.9.22.jar
+2025-08-04 16:42:50,054 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-08-04 16:42:50,054 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-util-1.9.22.jar
+2025-08-04 16:42:50,054 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-3.9.9.jar
+2025-08-04 16:42:50,055 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-builder-3.9.9.jar
+2025-08-04 16:42:50,055 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-shared-utils-3.4.2.jar
+2025-08-04 16:42:50,055 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-08-04 16:42:50,055 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-08-04 16:42:50,056 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-0.0.7.jar
+2025-08-04 16:42:50,056 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-1.2.0.jar
+2025-08-04 16:42:50,056 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-cipher-2.0.jar
+2025-08-04 16:42:50,057 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-classworlds-2.8.0.jar
+2025-08-04 16:42:50,057 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-component-annotations-2.1.0.jar
+2025-08-04 16:42:50,058 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-interpolation-1.27.jar
+2025-08-04 16:42:50,058 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-sec-dispatcher-2.0.jar
+2025-08-04 16:42:50,058 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-utils-3.5.1.jar
+2025-08-04 16:42:50,059 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-xml-3.0.1.jar
+2025-08-04 16:42:50,059 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-file-3.5.3.jar
+2025-08-04 16:42:50,059 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-3.5.3.jar
+2025-08-04 16:42:50,059 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-shared-3.5.3.jar
+2025-08-04 16:42:50,059 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-provider-api-3.5.3.jar
+2025-08-04 16:42:50,062 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.4.8.jre [18])
+2025-08-04 16:42:50,062 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\com.google.guava_33.4.8.jre.jar
+2025-08-04 16:42:50,062 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.17 [1004])
+2025-08-04 16:42:50,063 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\slf4j.api_2.0.17.jar
+2025-08-04 16:42:50,063 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [35])
+2025-08-04 16:42:50,064 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-08-04 16:42:50,064 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [45])
+2025-08-04 16:42:50,065 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2025-08-04 16:42:50,065 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [76])
+2025-08-04 16:42:50,066 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2025-08-04 16:42:50,066 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2025-08-04 16:42:50,066 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-08-04 16:42:50,066 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.3 [19])
+2025-08-04 16:42:50,068 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\com.google.guava.failureaccess_1.0.3.jar
+2025-08-04 16:42:50,073 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\movieticketbooking":
+2025-08-04 16:42:50,075 [Worker-102: Launching Executing clean in D__movieticketbooking] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2025-08-04 16:42:53,595 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:42:53,597 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:42:53,601 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 16:43:15,622 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [639])
+2025-08-04 16:43:15,623 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013
+2025-08-04 16:43:15,624 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\aopalliance-1.0.jar
+2025-08-04 16:43:15,624 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\guice-5.1.0.jar
+2025-08-04 16:43:15,624 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpclient-4.5.14.jar
+2025-08-04 16:43:15,625 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpcore-4.4.16.jar
+2025-08-04 16:43:15,625 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jansi-2.4.1.jar
+2025-08-04 16:43:15,625 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jcl-over-slf4j-1.7.36.jar
+2025-08-04 16:43:15,626 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-artifact-3.9.9.jar
+2025-08-04 16:43:15,626 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-builder-support-3.9.9.jar
+2025-08-04 16:43:15,626 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-compat-3.9.9.jar
+2025-08-04 16:43:15,626 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-core-3.9.9.jar
+2025-08-04 16:43:15,626 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-embedder-3.9.9.jar
+2025-08-04 16:43:15,626 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-3.9.9.jar
+2025-08-04 16:43:15,627 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-builder-3.9.9.jar
+2025-08-04 16:43:15,628 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-plugin-api-3.9.9.jar
+2025-08-04 16:43:15,628 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-repository-metadata-3.9.9.jar
+2025-08-04 16:43:15,628 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-api-1.9.22.jar
+2025-08-04 16:43:15,628 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-08-04 16:43:15,629 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-impl-1.9.22.jar
+2025-08-04 16:43:15,629 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-named-locks-1.9.22.jar
+2025-08-04 16:43:15,629 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-provider-3.9.9.jar
+2025-08-04 16:43:15,629 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-spi-1.9.22.jar
+2025-08-04 16:43:15,629 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-file-1.9.22.jar
+2025-08-04 16:43:15,630 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-http-1.9.22.jar
+2025-08-04 16:43:15,630 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-08-04 16:43:15,631 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-util-1.9.22.jar
+2025-08-04 16:43:15,631 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-3.9.9.jar
+2025-08-04 16:43:15,631 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-builder-3.9.9.jar
+2025-08-04 16:43:15,631 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-shared-utils-3.4.2.jar
+2025-08-04 16:43:15,632 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-08-04 16:43:15,632 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-08-04 16:43:15,632 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-0.0.7.jar
+2025-08-04 16:43:15,632 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-1.2.0.jar
+2025-08-04 16:43:15,632 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-cipher-2.0.jar
+2025-08-04 16:43:15,633 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-classworlds-2.8.0.jar
+2025-08-04 16:43:15,633 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-component-annotations-2.1.0.jar
+2025-08-04 16:43:15,633 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-interpolation-1.27.jar
+2025-08-04 16:43:15,633 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-sec-dispatcher-2.0.jar
+2025-08-04 16:43:15,634 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-utils-3.5.1.jar
+2025-08-04 16:43:15,634 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-xml-3.0.1.jar
+2025-08-04 16:43:15,634 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-file-3.5.3.jar
+2025-08-04 16:43:15,634 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-3.5.3.jar
+2025-08-04 16:43:15,634 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-shared-3.5.3.jar
+2025-08-04 16:43:15,634 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-provider-api-3.5.3.jar
+2025-08-04 16:43:15,635 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.4.8.jre [18])
+2025-08-04 16:43:15,637 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\com.google.guava_33.4.8.jre.jar
+2025-08-04 16:43:15,637 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.17 [1004])
+2025-08-04 16:43:15,637 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\slf4j.api_2.0.17.jar
+2025-08-04 16:43:15,637 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [35])
+2025-08-04 16:43:15,639 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-08-04 16:43:15,639 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [45])
+2025-08-04 16:43:15,642 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2025-08-04 16:43:15,643 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [76])
+2025-08-04 16:43:15,643 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2025-08-04 16:43:15,643 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2025-08-04 16:43:15,644 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-08-04 16:43:15,644 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.3 [19])
+2025-08-04 16:43:15,644 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\srisa\.p2\pool\plugins\com.google.guava.failureaccess_1.0.3.jar
+2025-08-04 16:43:15,646 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\movieticketbooking":
+2025-08-04 16:43:15,646 [Worker-99: Launching Executing install in D__movieticketbooking] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2025-08-04 16:49:02,413 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 16:49:02,423 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 16:49:02,425 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:12:06,268 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:12:06,283 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 17:12:06,286 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:16:24,839 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 17:16:24,839 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:16:24,844 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:16:35,538 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 17:16:35,539 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:16:35,546 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:17:18,722 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:17:18,737 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 17:17:18,740 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:20:25,107 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:20:25,112 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:20:25,114 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:20:49,533 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 17:20:49,534 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:20:49,536 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:20:57,662 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 17:20:57,664 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:20:57,671 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:22:42,007 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 17:22:42,008 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:22:42,013 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:25:01,453 [Worker-116: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:movieticketbooking:0.0.1-SNAPSHOT @ D:\movieticketbooking\pom.xml.
+2025-08-04 17:25:03,665 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 17:25:03,666 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 17:25:03,669 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:25:04,886 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:25:04,895 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-04 17:25:04,901 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:25:31,155 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-04 17:25:31,456 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:movieticketbooking:0.0.1-SNAPSHOT @ D:\movieticketbooking\pom.xml.
+2025-08-04 17:25:31,924 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movieticketbooking/src/main/java
+2025-08-04 17:25:31,924 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/main/resources
+2025-08-04 17:25:31,924 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/main/resources
+2025-08-04 17:25:31,925 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movieticketbooking/src/test/java
+2025-08-04 17:25:31,925 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/test/resources
+2025-08-04 17:25:32,133 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-08-04 17:25:32,447 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:25:32,457 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-04 17:25:32,464 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:27:54,733 [Worker-117: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-04 17:27:55,040 [Worker-117: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:movieticketbooking:0.0.1-SNAPSHOT @ D:\movieticketbooking\pom.xml.
+2025-08-04 17:27:55,511 [Worker-117: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movieticketbooking/src/main/java
+2025-08-04 17:27:55,511 [Worker-117: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/main/resources
+2025-08-04 17:27:55,512 [Worker-117: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/main/resources
+2025-08-04 17:27:55,512 [Worker-117: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movieticketbooking/src/test/java
+2025-08-04 17:27:55,512 [Worker-117: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/test/resources
+2025-08-04 17:27:55,712 [Worker-117: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-08-04 17:27:55,963 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:27:55,974 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-04 17:27:55,979 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:30:52,444 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:30:52,451 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-04 17:30:52,454 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:31:03,973 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:31:03,978 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-04 17:31:03,981 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:31:29,069 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-04 17:31:29,377 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:movieticketbooking:0.0.1-SNAPSHOT @ D:\movieticketbooking\pom.xml.
+2025-08-04 17:31:29,867 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movieticketbooking/src/main/java
+2025-08-04 17:31:29,868 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/main/resources
+2025-08-04 17:31:29,868 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/main/resources
+2025-08-04 17:31:29,868 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movieticketbooking/src/test/java
+2025-08-04 17:31:29,868 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movieticketbooking/src/test/resources
+2025-08-04 17:31:30,058 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-08-04 17:31:30,349 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:31:30,359 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-04 17:31:30,365 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:34:18,695 [Worker-118: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration MovieTicketBookingApplication references non-existing project movieticketbooking.
+org.eclipse.core.runtime.CoreException: Launch configuration MovieTicketBookingApplication references non-existing project movieticketbooking.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1871)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1748)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-08-04 17:34:18,739 [Worker-118: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration MovieTicketBookingApplication references non-existing project movieticketbooking.
+org.eclipse.core.runtime.CoreException: Launch configuration MovieTicketBookingApplication references non-existing project movieticketbooking.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1871)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1748)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-08-04 17:34:18,758 [Worker-118: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration MovieTicketBookingApplication references non-existing project movieticketbooking.
+org.eclipse.core.runtime.CoreException: Launch configuration MovieTicketBookingApplication references non-existing project movieticketbooking.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1871)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1748)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2009)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-08-04 17:40:18,737 [Worker-116: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:movieticketbooking:0.0.1-SNAPSHOT @ D:\movieticketbooking\pom.xml.
+2025-08-04 17:40:19,336 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:40:19,347 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-04 17:40:19,353 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 17:40:20,096 [Worker-118: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:movieticketbooking:0.0.1-SNAPSHOT @ D:\movieticketbooking\pom.xml.
+2025-08-04 17:40:20,782 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 17:40:20,796 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-04 17:40:20,802 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\movieticketbooking\src\test\resources
+2025-08-04 19:00:45,018 [Worker-115: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration MovieTicketBookingApplication references non-existing project movieticketbooking.
+org.eclipse.core.runtime.CoreException: Launch configuration MovieTicketBookingApplication references non-existing project movieticketbooking.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1871)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1748)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-08-04 19:00:45,022 [Worker-115: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration MovieTicketBookingApplication references non-existing project movieticketbooking.
+org.eclipse.core.runtime.CoreException: Launch configuration MovieTicketBookingApplication references non-existing project movieticketbooking.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1871)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1748)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-08-04 19:00:45,032 [Worker-115: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration MovieTicketBookingApplication references non-existing project movieticketbooking.
+org.eclipse.core.runtime.CoreException: Launch configuration MovieTicketBookingApplication references non-existing project movieticketbooking.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1871)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1748)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2009)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-08-04 19:01:04,023 [Worker-115: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-04 19:01:04,625 [Worker-115: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hotelbooking:hotelbooking:0.0.1-SNAPSHOT @ D:\hotelbooking\pom.xml.
+2025-08-04 19:01:05,686 [Worker-115: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hotelbooking/src/main/java
+2025-08-04 19:01:05,687 [Worker-115: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hotelbooking/src/main/resources
+2025-08-04 19:01:05,693 [Worker-115: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hotelbooking/src/main/resources
+2025-08-04 19:01:05,698 [Worker-115: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hotelbooking/src/test/java
+2025-08-04 19:01:05,699 [Worker-115: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hotelbooking/src/test/resources
+2025-08-04 19:01:06,194 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 19:01:06,222 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:01:06,225 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\hotelbooking\src\test\resources
+2025-08-04 19:01:06,276 [Worker-115: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 

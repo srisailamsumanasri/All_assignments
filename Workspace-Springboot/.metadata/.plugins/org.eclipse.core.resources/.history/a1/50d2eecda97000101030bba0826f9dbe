@@ -1,0 +1,55 @@
+
+package com.ecommerce.ecommerce.controller;
+
+import com.ecommerce.ecommerce.entity.Order;
+import com.ecommerce.ecommerce.repository.OrderRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.*;
+
+@Controller
+@RequestMapping("/orders")
+public class OrderController {
+
+    @Autowired
+    private OrderRepository orderRepository;
+
+    @GetMapping
+    public String listOrders(Model model) {
+        model.addAttribute("orders", orderRepository.findAll());
+        return "orders";
+    }
+
+    @GetMapping("/add")
+    public String showAddForm(Model model) {
+        model.addAttribute("order", new Order());
+        return "add_order";
+    }
+
+    @PostMapping("/save")
+    public String saveOrder(@ModelAttribute Order order) {
+        orderRepository.save(order);
+        return "redirect:/orders";
+    }
+
+    @GetMapping("/edit/{id}")
+    public String showEditForm(@PathVariable Long id, Model model) {
+        Order order = orderRepository.findById(id).orElseThrow();
+        model.addAttribute("order", order);
+        return "edit_order";
+    }
+
+    @PostMapping("/update/{id}")
+    public String updateOrder(@PathVariable Long id, @ModelAttribute Order order) {
+        order.setId(id);
+        orderRepository.save(order);
+        return "redirect:/orders";
+    }
+
+    @GetMapping("/delete/{id}")
+    public String deleteOrder(@PathVariable Long id) {
+        orderRepository.deleteById(id);
+        return "redirect:/orders";
+    }
+}

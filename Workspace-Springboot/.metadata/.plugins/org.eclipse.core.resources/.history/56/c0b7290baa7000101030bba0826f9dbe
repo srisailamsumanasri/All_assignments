@@ -1,0 +1,79 @@
+
+package com.ecommerce.ecommerce.controller;
+
+import com.ecommerce.ecommerce.entity.Order;
+import com.ecommerce.ecommerce.entity.Customer;
+import com.ecommerce.ecommerce.entity.Product;
+import com.ecommerce.ecommerce.repository.OrderRepository;
+import com.ecommerce.ecommerce.repository.CustomerRepository;
+import com.ecommerce.ecommerce.repository.ProductRepository;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
+
+@Controller
+@RequestMapping("/orders")
+public class OrderController {
+
+    @Autowired
+    private OrderRepository orderRepo;
+
+    @Autowired
+    private CustomerRepository customerRepo;
+
+    @Autowired
+    private ProductRepository productRepo;
+
+    // Display all orders
+    @GetMapping
+    public String listOrders(Model model) {
+        List<Order> orders = orderRepo.findAll();
+        model.addAttribute("orders", orders);
+        return "orders";
+    }
+
+    // Show form to add order
+    @GetMapping("/add")
+    public String showAddOrderForm(Model model) {
+        model.addAttribute("order", new Order());
+        model.addAttribute("customers", customerRepo.findAll());
+        model.addAttribute("products", productRepo.findAll());
+        return "add_order";
+    }
+
+    // Save order
+    @PostMapping("/save")
+    public String saveOrder(@ModelAttribute("order") Order order) {
+        orderRepo.save(order);
+        return "redirect:/orders";
+    }
+
+    // Show form to edit order
+    @GetMapping("/edit/{id}")
+    public String showEditOrderForm(@PathVariable("id") Long id, Model model) {
+        Order order = orderRepo.findById(id).orElseThrow(() -> new IllegalArgumentException("Invalid order ID: " + id));
+        model.addAttribute("order", order);
+        model.addAttribute("customers", customerRepo.findAll());
+        model.addAttribute("products", productRepo.findAll());
+        return "edit_order";
+    }
+
+    // Update order
+    @PostMapping("/update/{id}")
+    public String updateOrder(@PathVariable("id") Long id, @ModelAttribute("order") Order order) {
+        order.setId(id);
+        orderRepo.save(order);
+        return "redirect:/orders";
+    }
+
+    // Delete order
+    @GetMapping("/delete/{id}")
+    public String deleteOrder(@PathVariable("id") Long id) {
+        orderRepo.deleteById(id);
+        return "redirect:/orders";
+    }
+}
